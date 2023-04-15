@@ -1,0 +1,8 @@
+VALID_DB_TABLE_NAMES = ["USER_DATA", "USER_DATA_TEST"]
+
+LIST_LENGTH = 3
+
+KIND = 'related_queries'
+VALUE_ATTRIBUTE = 'value'
+HTML_PATH = 'index.html'
+QUERY_PARAMETER = 'query'
